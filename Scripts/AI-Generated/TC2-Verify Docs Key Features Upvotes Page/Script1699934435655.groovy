@@ -1,5 +1,5 @@
-import internal.GlobalVariable as GlobalVariable
 import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
+import internal.GlobalVariable as GlobalVariable
 
 'Initialize test session: Open browser and set view port'
 
@@ -15,7 +15,7 @@ WebUI.navigateToUrl(GlobalVariable.application_domain + '')
 
 'step 2: Add visual checkpoint at Page docs key-features upvotes'
 
-WebUI.takeFullPageScreenshotAsCheckpoint('TC2-Verify Upvotes Page in Documentation Key Features_visual_checkpoint')
+WebUI.takeFullPageScreenshotAsCheckpoint('TC2-Verify Docs Key Features Upvotes Page_visual_checkpoint')
 
 'Terminate test session: Close browser'
 

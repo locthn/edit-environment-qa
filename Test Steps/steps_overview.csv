@@ -1,10 +1,10 @@
 Flow ID,Description,Test Steps,Flow Priority
-1,Verify Upvotes Page in Documentation Key Features,"step 1: Navigate to Page home
+1,Verify Upvotes Page in Docs Key Features,"step 1: Navigate to Page home
 step 2: At Page home click on hyperlink docs key features upvotes --> navigate to Page docs key-features upvotes
 step 3: Add visual checkpoint at Page docs key-features upvotes",High
-3,Verify Claiming Ownership Page in Documentation for Content Creators,"step 1: Navigate to Page docs for-content-creators claiming-ownership-
+3,Verify Claiming Ownership Page in Docs for Content Creators,"step 1: Navigate to Page docs for-content-creators claiming-ownership-
 step 2: Add visual checkpoint at Page docs for-content-creators claiming-ownership-",Low
-2,Verify Upvotes Page in Documentation Key Features,"step 1: Navigate to Page docs key-features upvotes
-step 2: Add visual checkpoint at Page docs key-features upvotes",Low
-4,Verify Browser Extension Installation Page in Documentation Getting Started,"step 1: Navigate to Page docs getting-started browser-extension-instal
+4,Verify Browser Extension Installation in Docs Getting Started,"step 1: Navigate to Page docs getting-started browser-extension-instal
 step 2: Add visual checkpoint at Page docs getting-started browser-extension-instal",Low
+2,Verify Docs Key Features Upvotes Page,"step 1: Navigate to Page docs key-features upvotes
+step 2: Add visual checkpoint at Page docs key-features upvotes",Low

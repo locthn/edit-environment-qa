@@ -1,5 +1,5 @@
-import internal.GlobalVariable as GlobalVariable
 import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
+import internal.GlobalVariable as GlobalVariable
 
 'Initialize test session: Open browser and set view port'
 
@@ -15,7 +15,7 @@ WebUI.navigateToUrl(GlobalVariable.application_domain + '')
 
 'step 2: Add visual checkpoint at Page docs getting-started browser-extension-instal'
 
-WebUI.takeFullPageScreenshotAsCheckpoint('TC4-Verify Browser Extension Installation Page in Documentation Getting Started_visual_checkpoint')
+WebUI.takeFullPageScreenshotAsCheckpoint('TC4-Verify Browser Extension Installation in Docs Getting Started_visual_checkpoint')
 
 'Terminate test session: Close browser'
 
